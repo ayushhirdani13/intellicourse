@@ -7,6 +7,8 @@ import cookieParser from "cookie-parser";
 import jwt from "jsonwebtoken";
 import bcrypt from "bcrypt";
 const saltRounds = 10;
+import path from "path";
+// import {Student} from "./models/studentSchema.js"
 
 dotenv.config();
 const server = express();
