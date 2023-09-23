@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+node_modules
+Admin/backend/node_modules
+Student/backend/node_modules
+Student/frontend/node_modules
+
+=======
+>>>>>>> cf47e165d753334058d93c09974659e9b5778daf
 #this data is taken from official github reporisitory: github/.gitignore
 # Logs
 logs
