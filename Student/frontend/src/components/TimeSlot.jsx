@@ -6,21 +6,21 @@ let slotCourse=[];
 
 
 
-const TimeSlot = (props) => {
+// const TimeSlot = (props) => {
 
-    courses.forEach((course)=>{
-        if (course.slot === props.timeStart){
-            slots.push({course.
-            })
-        }
-    });
+//     courses.forEach((course)=>{
+//         if (course.slot === props.timeStart){
+//             slots.push({course.
+//             })
+//         }
+//     });
     
-    return (
+//     return (
       
-    // <h1>"ello there</h1>
+//     // <h1>"ello there</h1>
 
       
-  );
-}
+//   );
+// }
 
-export default TimeSlot;
+// export default TimeSlot;
