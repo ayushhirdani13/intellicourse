@@ -7,5 +7,4 @@ const saltRounds = 10;
 
 dotenv.config();
 const server = express();
-
 server.use(express.json());
